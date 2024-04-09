@@ -20,4 +20,4 @@ You can click the Preview link to take a look at your changes.
 </picture>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Gustavo Resende=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yGustavoR10=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
