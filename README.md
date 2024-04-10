@@ -20,3 +20,7 @@ You can click the Preview link to take a look at your changes.
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yGustavoR10&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" />
+          
