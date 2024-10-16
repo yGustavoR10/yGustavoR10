@@ -23,8 +23,10 @@ You can click the Preview link to take a look at your changes.
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yGustavoR10&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Linguagens](https://img.shields.io/github/languages/top/seu-usuario/seu-repositorio)
-![Linguagens](https://img.shields.io/github/languages/count/seu-usuario/seu-repositorio)
+
+## Gráficos Interativos
+
+Veja o gráfico dinâmico de linguagens de programação [aqui](https://link-para-seu-grafico-interativo).
 
 
   
