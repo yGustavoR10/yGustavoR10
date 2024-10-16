@@ -2,28 +2,11 @@
 - 👀 Cursando Bacharel em Ciência da computação
 - 💞️ I’m looking aprender todos tipos de linguagens de programação
 - 📫 How to reach me Email:gustavo.vianar10@gmail.com
-# Olá, eu sou [Seu Nome]! 👋
 
-## Sobre Mim
+![Top Linguagens](https://img.shields.io/github/languages/top/seu-usuario/seu-repositorio)
+![Linguagens](https://img.shields.io/github/languages/count/seu-usuario/seu-repositorio)
 
-- 🔭 Atualmente trabalhando em: [Projeto Atual](link do projeto)
 
-## Gráficos de Desempenho
-
-![Gráfico de Desempenho](https://example.com/grafico-desempenho.png)
-
-## Demonstração do Projeto
-
-![Demonstração do Projeto](https://example.com/demonstracao.gif)
-
-## Vídeo do Projeto
-
-Confira o vídeo de demonstração do meu projeto [aqui](https://www.youtube.com/watch?v=exemplo).
-
-## Estatísticas do Projeto
-
-![Estatísticas do Projeto](https://img.shields.io/badge/Stars-100-yellow)
-![Estatísticas do Projeto](https://img.shields.io/badge/Forks-25-blue)
 
 <!---
 yGustavoR10/yGustavoR10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
