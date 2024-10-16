@@ -25,7 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yGustavoR10&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Gráficos Interativos
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 Veja o gráfico dinâmico de linguagens de programação [aqui](https://link-para-seu-grafico-interativo).
 
