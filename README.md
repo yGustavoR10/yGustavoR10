@@ -20,15 +20,14 @@ You can click the Preview link to take a look at your changes.
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=yGustavoR10&show_icons=true" />
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+ 
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yGustavoR10&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/yGustavor10/github-readme-stats)
 
-Veja o gráfico dinâmico de linguagens de programação [aqui](https://link-para-seu-grafico-interativo).
 
 
   
