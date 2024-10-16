@@ -3,8 +3,6 @@
 - 💞️ I’m looking aprender todos tipos de linguagens de programação
 - 📫 How to reach me Email:gustavo.vianar10@gmail.com
 
-![Top Linguagens](https://img.shields.io/github/languages/top/seu-usuario/seu-repositorio)
-![Linguagens](https://img.shields.io/github/languages/count/seu-usuario/seu-repositorio)
 
 
 
@@ -25,6 +23,9 @@ You can click the Preview link to take a look at your changes.
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yGustavoR10&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Linguagens](https://img.shields.io/github/languages/top/seu-usuario/seu-repositorio)
+![Linguagens](https://img.shields.io/github/languages/count/seu-usuario/seu-repositorio)
+
 
   
         
