@@ -1,29 +1,32 @@
-- 👋 Hi, I’m @Gustavo Resende viana
-- 👀 Cursando Bacharel em Ciência da computação
-- 💞️ I’m looking aprender todos tipos de linguagens de programação
-- 📫 How to reach me Email:gustavo.vianar10@gmail.com
+## 🚀 Olá! Eu sou o Gustavo
 
+Sou estudante de **Ciência da Computação** e apaixonado por tecnologia! 🚀 Sempre buscando aprender mais e desenvolver soluções inovadoras para desafios reais. Atualmente, trabalho como estagiário na Prefeitura de Ubá - MG e desenvolvo projetos próprios.
 
+### 🖥️ Meus Projetos
 
+🔹 **ARENA PJ** - Plataforma para gerenciamento de campeonatos, ajudando organizadores a automatizar sorteios e melhorar a experiência dos participantes.  
+🔹 **Daniela Rocha Semijoias e Prata** - Site para exibição de semijoias e prata, trazendo um layout moderno e atrativo.  
+🔹 **LUXZ** - Mostruário para a minha marca de camisetas, focado em um design limpo e profissional.  
 
-<!---
-yGustavoR10/yGustavoR10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yGustavoR10&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yGustavoR10&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=yGustavoR10&show_icons=true" />
- 
-</picture>
+### 🛠️ Tecnologias e Ferramentas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yGustavoR10&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+### 📊 Estatísticas do GitHub
+
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=radical)
+
+### 📫 Contato
+
+📧 Email: seu-email-aqui@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil-aqui/)  
+🔗 [Portfólio](https://seu-portfolio.com/) (se tiver)
 
 
 
