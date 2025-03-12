@@ -27,5 +27,5 @@ Sou estudante de **Ciência da Computação** e apaixonado por tecnologia! 🚀 
 ### 📫 Contato
 
 📧 Email: Gustavo.vianar10@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/gustavo-resende-viana-366838300)  
-🔗 [Portfólio](https://seu-portfolio.com/) (se tiver)
+🔗 [LinkedIn](www.linkedin.com/in/gustavo-resende-viana/)  
+
