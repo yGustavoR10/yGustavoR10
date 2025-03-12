@@ -5,7 +5,7 @@ Sou estudante de **Ciência da Computação** e apaixonado por tecnologia! 🚀 
 ### 🖥️ Meus Projetos
 
 🔹 **ARENA PJ** - Plataforma para gerenciamento de campeonatos, ajudando organizadores a automatizar sorteios e melhorar a experiência dos participantes.  
-🔹 **Daniela Rocha Semijoias e Prata** - Site para exibição de semijoias e prata, trazendo um layout moderno e atrativo.  
+🔹 **Semijoias e Prata** - Site para exibição de semijoias e prata, trazendo um layout moderno e atrativo.  
 🔹 **LUXZ** - Loja de camisas, focado em um design limpo e profissional.
 
 
@@ -22,10 +22,10 @@ Sou estudante de **Ciência da Computação** e apaixonado por tecnologia! 🚀 
 
 ### 📊 Linguagens Mais Usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yGustavoR10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Contato
 
 📧 Email: Gustavo.vianar10@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/gustavo-resende-viana-/)  
+ 
 
