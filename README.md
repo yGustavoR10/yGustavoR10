@@ -19,7 +19,7 @@ Sou estudante de **Ciência da Computação** e apaixonado por tecnologia! 🚀 
 
 ### 📊 Linguagens Mais Usadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario-aqui&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yGustavoR10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Contato
 
