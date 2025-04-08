@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hello, world! Eu sou [Seu Nome]</h1>
+<h1 align="center">👋 Hello, world! Eu sou [Gustavo Resende Viana]</h1>
 
-<p align="center">Sou um desenvolvedor fullstack, curioso e apaixonado por tecnologia.<br>
-🎓 Estudante de Ciência da Computação na [Sua Faculdade] <br>
-💼 Estagiário na [Seu local de estágio, se quiser colocar] <br>
+<p align="center">Estudante de Ciência da Computação, entusiasta em desenvolvimento de software e apaixonado por resolver problemas através da tecnologia. Gosto de aprender coisas novas, encarar desafios e transformar ideias em projetos reais.<br>
+🎓 Estudante de Ciência da Computação na [Centro Universitário Governador Ozanam Coelho - UNIFAGOC] <br>
+💼 Estagiário na [Prefeitura de Ubá] <br>
 </p>
 
 ---
@@ -34,8 +34,7 @@
 
 
 
-
-## 📟 Quantidade de visitantes
+## 📈 Visitantes no perfil
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/yGustavoR10/count.svg" />
