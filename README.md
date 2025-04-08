@@ -40,7 +40,7 @@
 ## 📈 Visitantes no perfil
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gustavocosta&count_bg=%2300C853&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitas&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/yGustavoR10&count_bg=%2300C853&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitas&edge_flat=false"/>
 </p>
 
 
