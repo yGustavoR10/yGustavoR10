@@ -1,31 +1,49 @@
-## 🚀 Olá! Eu sou o Gustavo
+<h1 align="center">👋 Hello, world! Eu sou [Seu Nome]</h1>
 
-Sou estudante de **Ciência da Computação** e apaixonado por tecnologia! 🚀 Sempre buscando aprender mais e desenvolver soluções inovadoras para desafios reais. Atualmente, trabalho como estagiário na Prefeitura de Ubá - MG e desenvolvo projetos próprios.
+<p align="center">Sou um desenvolvedor fullstack, curioso e apaixonado por tecnologia.<br>
+🎓 Estudante de Ciência da Computação na [Sua Faculdade] <br>
+💼 Estagiário na [Seu local de estágio, se quiser colocar] <br>
+</p>
 
-### 🖥️ Meus Projetos
+---
 
-🔹 **ARENA PJ** - Plataforma para gerenciamento de campeonatos, ajudando organizadores a automatizar sorteios e melhorar a experiência dos participantes.  
-🔹 **Semijoias e Prata** - Site para exibição de semijoias e prata, trazendo um layout moderno e atrativo.  
-🔹 **LUXZ** - Loja de camisas, focado em um design limpo e profissional.
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&langs_count=8&theme=radical"/>
+</div>
 
+---
 
+## 🧠 Tecnologias que uso no dia a dia:
 
-### 🛠️ Tecnologias e Ferramentas
+<div style="display: inline_block" align="center">
+  <img align="center" alt="JS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <!-- Adicione outros ícones que desejar -->
+</div>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-### 📊 Linguagens Mais Usadas
+## 📈 Visitantes no perfil
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yGustavoR10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yGustavoR10&color=green" alt="Profile views"/>
+</p>
 
-### 📫 Contato
+---
 
-📧 Email: Gustavo.vianar10@gmail.com  
- 
+## 🔗 Onde me encontrar
+
+<p align="center">
+  <a href="https://instagram.com/seuusuario" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
